@@ -12,7 +12,7 @@ Using ISO 639-1 code:
 
 
 Type !info for more information. 
-Can detect several language codes in the ISO 639-1 standard Also has the option to input the entire language name itself
+Can detect several language codes in the ISO 639-1 standard. Also has the option to input the entire language name itself
 For a list of all the supported ISO codes, type !isocodes
 
 
