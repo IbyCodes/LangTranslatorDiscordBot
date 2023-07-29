@@ -8,7 +8,7 @@ How to use this bot:
 Example:\
 !translate Urdu Hello how are you\
 Using ISO 639-1 code:\
-!translate ur Hello how are you\
+!translate ur Hello how are you
 
 Type !info for more information.
 Can detect several language codes in the ISO 639-1 standard. Also has the option to input the entire language name itself
