@@ -1,7 +1,8 @@
 # LangTranslatorDiscordBot
 A discord Bot built off the Googletrans library in Python that translates any text in any language to a language of the user's choice. 
+Link to documentation: https://readthedocs.org/projects/py-googletrans/downloads/pdf/latest/
 
-How to Use:
+How to use this bot:
 !translate <target_language> <text_to_translate>
 
 Example:
