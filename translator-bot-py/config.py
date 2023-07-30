@@ -1,0 +1,1 @@
+TOKEN = "" # this token has been removed due to security reasons. However, note that every discord bot has a token that only the creator should have access to.
