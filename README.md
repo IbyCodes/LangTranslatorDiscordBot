@@ -5,7 +5,7 @@ Link to documentation of the library: https://readthedocs.org/projects/py-google
 How to use this bot:
 !translate <target_language> <text_to_translate>
 
-Or: !translate for general guidelines
+Or: **!translate** for general guidelines
 
 In-server text translation examples:\
 !translate Urdu Hello how are you\
