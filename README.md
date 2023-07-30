@@ -5,10 +5,15 @@ Link to documentation of the library: https://readthedocs.org/projects/py-google
 How to use this bot:
 !translate <target_language> <text_to_translate>
 
-Example:\
+Examples:\
 !translate Urdu Hello how are you\
 Using ISO 639-1 code:\
 !translate ur Hello how are you
+
+txt file based reading:\
+!translatefile Spanish {.txt file attached}
+
+
 
 Type !info for more information.\
 Can detect several language codes in the ISO 639-1 standard. Also has the option to input the entire language name itself
